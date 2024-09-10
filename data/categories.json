@@ -1,0 +1,10 @@
+[
+    {"name": "open", "desired_count": 3000},
+    {"name": "closed", "desired_count": 1000},
+    {"name": "extraction", "desired_count": 1000},
+    {"name": "summarization", "desired_count": 1000},
+    {"name": "brainstorming", "desired_count": 1000},
+    {"name": "classification", "desired_count": 1000},
+    {"name": "writing", "desired_count": 500},
+    {"name": "unknown", "desired_count": 0}
+]
